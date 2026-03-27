@@ -4,7 +4,6 @@
 
 def string_cutter():
     s = str(input("s:"))
-    print(s)
     a = int(input("a:"))
     b = int(input("b:"))
     c = int(input("c:"))

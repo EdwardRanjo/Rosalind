@@ -1,5 +1,5 @@
 # Rosalind RNA transcriptor
-# A DNA string having
+# A DNA string
 # Return: The transcribed RNA string
 
 def RNA_transcriptor():
